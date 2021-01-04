@@ -1,4 +1,4 @@
-![Screen Shot 2020-11-16 at 6 05 34 PM](https://user-images.githubusercontent.com/61163743/99327160-8c2c7180-2836-11eb-8c12-4b8211d8e449.png)
+![Screen Shot 2021-01-04 at 1 56 49 PM](https://user-images.githubusercontent.com/61163743/103579099-f2c42800-4e94-11eb-948c-b377e03b6d50.png)
 
 ## Welcome Friends! 👋
 
