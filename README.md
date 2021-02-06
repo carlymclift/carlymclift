@@ -6,7 +6,7 @@ My name is Carly, I'm a Colorado Native 🌲🍂🌺   Animal lover 🐹🐶   a
 
 ### A little about me:
 - 🎓 Turing School of Software and Design grad ✨
-- 🌱 I’m currently learning `.NET core Razor Pages` 
+- 🌱 I’m currently learning `ASP.NET core Razor Pages` 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlyclift/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The Bluebottle Butterfly has 12 more color receptor cones than humans do, allowing them to see all kinds of colors including the UV spectum. 
